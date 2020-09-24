@@ -1,0 +1,17 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "Practicing",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Cristian Davila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
